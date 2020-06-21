@@ -1,4 +1,4 @@
-# NYTimes Data:
+From the NYTimes github:
 
 # Coronavirus (Covid-19) Data in the United States
 
